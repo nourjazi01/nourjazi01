@@ -53,10 +53,10 @@
 
 ## Highlights
 
-- **1st place** — AI Camera Challenge, 2025
-- **2nd place** — TuniHack 10.0, 2025
-- **Top 10 university projects** — PharmAI and AzulTunes
-- **NVIDIA certified** — Multimodal AI Agents, Generative AI with Diffusion Models, and Fundamentals of Deep Learning
+- **1st place** - AI Camera Challenge, 2025
+- **2nd place** - TuniHack 10.0, 2025
+- **Top 10 university projects** - PharmAI and AzulTunes
+- **NVIDIA certified** - Multimodal AI Agents, Generative AI with Diffusion Models, and Fundamentals of Deep Learning
 
 ## Current focus
 
